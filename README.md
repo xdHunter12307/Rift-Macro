@@ -1,0 +1,2 @@
+# Rift-Macro
+THIS IS A MACRO MOD FOR THE RIFT
